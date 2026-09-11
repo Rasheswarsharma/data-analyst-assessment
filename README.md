@@ -1,6 +1,8 @@
 📊 E-commerce Data Analysis & Business Insights
+
 https://drive.google.com/drive/folders/1LP1f4_3Kfh-4fVl3JA-h_WDYvC1Sezg-?usp=sharing
 
+sheet :https://docs.google.com/spreadsheets/d/1q5_IP5ux64TAASY2gX5G9CeqNx_0mKaCIyAHsZBHXLk/edit?usp=sharing
 Data Analyst Assessment | Order Performance • Delivery • Customer Satisfaction • Revenue
 
 A complete end-to-end data analysis project focused on turning e-commerce order data into clear, management-ready business insights.
